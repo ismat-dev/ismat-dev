@@ -55,13 +55,6 @@ and **Django REST Framework**.
 
 ---
 
-## 📊 GitHub Stats
-
-![Ismat's GitHub stats](https://github-readme-stats.vercel.app/api?username=IsmatIsmoilov&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IsmatIsmoilov&layout=compact&theme=tokyonight)
-
----
-
 ## 🌍 Open to Opportunities
 - 💼 Junior / Intern Backend Developer Roles
 - 🌐 Remote & International Projects
